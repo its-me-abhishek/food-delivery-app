@@ -51,6 +51,5 @@ A mobile application built using Flutter for ordering food items and managing a 
 
 ## Future Enhancements
 
-- Working on UI and various pages for the application
 - Dark mode theme implementation
 
